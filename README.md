@@ -284,14 +284,7 @@ Images
 
 Images show the various classes of images with annotations
 ## Demo
-
-
-
 https://www.youtube.com/watch?v=FTPUAw1nV6o
-
-
-
-
 
 ## Advantages
 
